@@ -1,7 +1,3 @@
-Sure! Here's a **clean and structured summary of your Aerofit treadmill case study analysis** in **5–8 points with clear headings**, suitable for your GitHub README or documentation section:
-
----
-
 ## 🔍 Aerofit Treadmill Case Study – Summary of Analysis
 
 ### 1. 🎯 Customer Segmentation by Product Type  
