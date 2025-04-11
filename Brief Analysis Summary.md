@@ -46,4 +46,3 @@
 
 ---
 
-Let me know if you want a ready-to-use markdown version for GitHub or want this formatted for a Jupyter Notebook!
